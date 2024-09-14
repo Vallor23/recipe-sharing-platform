@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "https://www.allrecipes.com/thmb/a_0W8yk_LLCtH-VPqg2uLD9I5Pk=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g pecorino cheese",
+      "50g parmesan",
+      "Freshly ground black pepper",
+      "Salt"
+    ],
+    "instructions": [
+      "Boil the pasta in salted water.",
+      "Fry the pancetta until crispy.",
+      "Beat the eggs with the cheeses.",
+      "Drain the pasta and mix with pancetta, eggs, and cheese.",
+      "Serve with extra cheese and pepper."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/06/chicken-tikka-masala.jpg",
+    "ingredients": [
+      "500g chicken breast",
+      "1 cup yogurt",
+      "2 tbsp tikka masala spice",
+      "1 onion",
+      "1 can tomato puree",
+      "200ml cream",
+      "Fresh cilantro"
+    ],
+    "instructions": [
+      "Marinate the chicken with yogurt and spices.",
+      "Grill the chicken until cooked through.",
+      "Saute the onion and add tomato puree.",
+      "Stir in the cream and add the chicken.",
+      "Serve with fresh cilantro on top."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sushi",
+    "summary": "Traditional Japanese dish featuring vinegared rice and raw or cooked seafood.",
+    "image": "https://cdn.britannica.com/52/128652-050-14AD19CA/Maki-zushi.jpg",
+    "ingredients": [
+      "2 cups sushi rice",
+      "1/4 cup rice vinegar",
+      "1 tbsp sugar",
+      "200g raw salmon",
+      "Nori sheets",
+      "Soy sauce",
+      "Wasabi"
+    ],
+    "instructions": [
+      "Cook sushi rice and mix with vinegar and sugar.",
+      "Slice salmon into thin pieces.",
+      "Place rice on a nori sheet and add salmon.",
+      "Roll the sushi and slice into pieces.",
+      "Serve with soy sauce and wasabi."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Beef Stroganoff",
+    "summary": "A Russian-inspired dish of sautéed beef served in a sauce with sour cream.",
+    "image": "https://www.fromvalerieskitchen.com/wordpress/wp-content/uploads/2019/10/Beef-Stroganoff-1200-5.jpg",
+    "ingredients": [
+      "500g beef strips",
+      "1 onion",
+      "200g mushrooms",
+      "200ml sour cream",
+      "2 tbsp flour",
+      "1 cup beef broth",
+      "Parsley"
+    ],
+    "instructions": [
+      "Saute beef until browned, then set aside.",
+      "Cook onions and mushrooms in the same pan.",
+      "Add flour and broth to the pan and cook until thickened.",
+      "Stir in sour cream and add the beef back in.",
+      "Garnish with parsley and serve."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Pad Thai",
+    "summary": "A popular Thai dish with stir-fried rice noodles, eggs, vegetables, and tofu or meat.",
+    "image": "https://www.gimmesomeoven.com/wp-content/uploads/2019/01/Pad-Thai-Recipe-1.jpg",
+    "ingredients": [
+      "200g rice noodles",
+      "2 eggs",
+      "100g tofu",
+      "100g shrimp",
+      "Bean sprouts",
+      "Peanuts",
+      "Lime"
+    ],
+    "instructions": [
+      "Soak noodles in warm water until soft.",
+      "Stir-fry tofu and shrimp until cooked.",
+      "Scramble the eggs in the same pan.",
+      "Add noodles, bean sprouts, and sauce, and stir-fry together.",
+      "Top with peanuts and serve with lime wedges."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Margherita Pizza",
+    "summary": "A simple pizza topped with tomatoes, fresh mozzarella, and basil.",
+    "image": "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg",
+    "ingredients": [
+      "1 pizza dough",
+      "100g mozzarella",
+      "2 tomatoes",
+      "Fresh basil leaves",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": [
+      "Roll out the pizza dough on a baking sheet.",
+      "Top with sliced tomatoes and mozzarella.",
+      "Bake in a preheated oven at 220°C for 10-12 minutes.",
+      "Garnish with fresh basil and drizzle with olive oil before serving."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Falafel",
+    "summary": "A Middle Eastern dish made of ground chickpeas or fava beans, deep-fried into balls.",
+    "image": "https://feelgoodfoodie.net/wp-content/uploads/2024/03/Falafel-TIMG.jpg",
+    "ingredients": [
+      "1 cup dried chickpeas",
+      "1 onion",
+      "2 cloves garlic",
+      "Fresh parsley",
+      "Cumin",
+      "Coriander",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Soak chickpeas overnight and drain.",
+      "Blend chickpeas with onion, garlic, and spices.",
+      "Shape the mixture into small balls.",
+      "Deep-fry until golden brown.",
+      "Serve with pita bread and tahini sauce."
+    ]
+  }
+
+]
